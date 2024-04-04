@@ -4,5 +4,5 @@ Currently used on the CIFAR10 datasets, intended to be later used on the PanNuke
 
 See Vit_first.ipynb for the vision transormer built on a supervised method.
 
-See Concise_DINO-Demo.ipynb for the ViT built using the DINO method.
+See Concise_DINO-Demo.ipynb for the ViT built using the DINO method (under 'notebooks_').
 
